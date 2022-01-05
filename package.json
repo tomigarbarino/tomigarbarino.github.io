@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w scss/ -o css/"
+  },
+  "author": "Nacho Caiafa",
+  "license": "ISC",
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  }
+}
