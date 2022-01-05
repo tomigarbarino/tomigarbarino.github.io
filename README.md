@@ -5,4 +5,4 @@
 • RpgUI http://ronenness.github.io/RPGUI/  
 • Mobile First
 
-### [Live Demo](https://nachokai.github.io/rpg-cv/)
+### [Live Demo]()
